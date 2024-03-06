@@ -1,4 +1,4 @@
-# UVA_Minor-Programming_Programming-1
+# UVA_Programmeren-voor-Natuur-en-sterrenkunde
 Exercises for the Programmeren voor Natuur- en sterrenkunde course (2019)<br />
 Warning this code is for python 3.x
 
